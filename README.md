@@ -1,5 +1,7 @@
 # Sprout Sling
 
+**[▶ Play in browser](https://saturaspace.com/play/throw/)**
+
 Stop the power meter, sling a seed down a long voxel canyon, pile up luck, and roll for a rare plant.
 
 ![Gameplay](media/gameplay.gif)
